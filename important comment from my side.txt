@@ -1,0 +1,7 @@
+Hello Sir/Madam,
+
+By mistake, I uploaded an older, incomplete version of the .ipynb file—the one I had downloaded before making the required improvements. However, I have already provided the Colab link, which contains the complete code, and I have now also uploaded the full .ipynb file that was completed within the given assignment deadline in LA001.
+
+I kindly request you to please consider the updated file and the Colab link.
+
+Thank you, Sir/Madam.
